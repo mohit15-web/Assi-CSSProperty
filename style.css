@@ -98,6 +98,7 @@
     width: 90%;
     margin: 50px auto;
     display: flex;
+    box-shadow: 10px 10px 20px rgba(251, 249, 249, 0.6);
 }
 .content-shoe img{
     border-radius: 50%;
@@ -105,12 +106,13 @@
     width: 400px;
     position: absolute;
     right: 10%;
-    box-shadow: white;
+    box-shadow: 10px 10px 20px rgba(247, 244, 244, 0.9);
 }
 .content-shoe{
     width: 40%;
     margin-left: 300px;
     padding-top: 40px;
+    
 }
 .content-text{
     width: 60%;
